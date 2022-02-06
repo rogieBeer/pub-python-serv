@@ -1,0 +1,33 @@
+{
+    "portfolio": [
+        {
+            "stock": "DPZ",
+            "quantity": 3.12,
+            "price": 384.3,
+            "Gain/Loss": 0.52
+        },
+        {
+            "stock": "GOOGL",
+            "quantity": 2.0,
+            "price": 2252.51,
+            "Gain/Loss": -0.8
+        },
+        {
+            "stock": "TSLA",
+            "quantity": 5.0,
+            "price": 670.98,
+            "Gain/Loss": 0.0
+        },
+        {
+            "stock": "FB",
+            "quantity": 80.0,
+            "price": 500.0,
+            "Gain/Loss": 60.02
+        }
+    ],
+    "symbol": [
+        {
+            "stock": "GOOGL"
+        }
+    ]
+}
